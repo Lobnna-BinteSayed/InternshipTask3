@@ -1,0 +1,29 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial, sans-serif;line-height:1.5}
+.section{padding:40px 20px;}
+
+/* top banner */
+.top-banner{
+  background: url("../images/banner.jpg") center/cover no-repeat;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+.top-banner .nav{margin-top:12px;}
+.topbanner .nav a{color:white;text-decoration:none;margin:0 12px;font-weight:600;}
+
+
+p{
+    color:green
+
+}
+
+.favouriteFood{
+    color: green;
+}
+.fruits{
+    color:brown
+}
+.vegetables{
+    color: rgb(200, 89, 14);
+}
